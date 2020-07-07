@@ -1,0 +1,23 @@
+
+.content {
+    /* margin:20px 776px 20px 20px; align to left */
+    margin:20px 398px ;  /* align to center */
+    line-height: 1.5;
+}
+.header {
+    color: rgb(109, 107, 107);
+    font-weight: bold;
+}
+a {
+    color: rgb(109, 107, 107);
+    text-decoration: none;
+    float:right;
+    margin-left: 15px;
+}
+hr {
+    border:1px solid rgb(109, 107, 107);
+}
+.date {
+    font-style: italic;
+    color: rgb(114, 108, 108);
+}
